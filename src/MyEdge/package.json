@@ -1,0 +1,14 @@
+{
+  "name": "myedge",
+  "version": "1.0.0",
+  "description": "my first electron app for practice",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "edge"
+  ],
+  "author": "sthwentwrong",
+  "license": "MIT"
+}
